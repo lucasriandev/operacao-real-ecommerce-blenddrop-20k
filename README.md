@@ -45,6 +45,9 @@ Esta experiência empreendedora me proporcionou a base para os meus estudos atua
 ---
 
 ## 📂 Evidências / Evidences
+
+> **💡 Nota:** Como os arquivos de vídeo são detalhados e possuem um tamanho maior (ex: 13.3MB), o player do GitHub pode apresentar lentidão ou não exibir a pré-visualização. Caso encontre problemas, você pode clicar no link abaixo de cada vídeo para baixá-lo e assistir localmente.
+> 
 * [Vídeo das Métricas Detalhadas (Conversão e ROI)](./evidencias/Video%20de%20metricas.mp4)
 * [Vídeo Demonstrativo do Instagram (@blenddrop)](./evidencias/Instagram.mp4)
 ---
