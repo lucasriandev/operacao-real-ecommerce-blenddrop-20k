@@ -41,9 +41,9 @@ Esta experiência empreendedora me proporcionou a base para os meus estudos atua
 ---
 
 ## 📂 Evidências / Evidences
-* [Vídeo das Métricas Detalhadas](./evidencias/metricas-detalhadas.mp4)
-* [Print do Faturamento Total](./evidencias/faturamento-total.png)
-* [Print do Perfil Instagram](./evidencias/instagram-perfil.png)
+* [Vídeo das Métricas Detalhadas (Conversão e ROI)](./evidencias/Video%20de%20metricas.mp4)
+* [Vídeo Demonstrativo do Instagram (@blenddrop)](./evidencias/Instagram.mp4)
+* [Print do Faturamento Total (Yampi)](./evidencias/Faturamento%20Print.jpeg)
 
 ---
 *Nota: A operação foi descontinuada devido ao novo cenário tributário de importação no Brasil, mas os dados comprovam minha capacidade de execução e gestão de projetos digitais.*
