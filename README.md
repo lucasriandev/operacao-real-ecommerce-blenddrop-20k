@@ -2,7 +2,11 @@
 > **Faturamento Total / Total Revenue:** R$ 19.965,09  
 > **Receita Consolidada / Paid Revenue:** R$ 11.981,99
 
-Este repositório documenta a operação real da **BlendDrop**, uma marca de e-commerce que gerenciei de ponta a ponta. O objetivo é demonstrar competências em análise de dados, design de conversão e infraestrutura digital, fundamentais para minha transição para Engenharia de Software.
+Este repositório documenta a operação real da **BlendDrop**, uma marca de e-commerce que gerenciei de ponta a ponta. O objetivo é demonstrar competências em análise de dados, design de conversão e infraestrutura digital, fundamentais para minha transição para Engenharia de Software, todas as provas e evidencias estão no final ou nas pastas.
+
+### 📊 Comprovante de Faturamento (Yampi)
+*Print do dashboard confirmando o faturamento total de R$ 19.965,09.*
+<img src="./evidencias/Faturamento%20Print.jpeg" alt="Faturamento Total" width="600">
 
 ---
 
@@ -43,7 +47,5 @@ Esta experiência empreendedora me proporcionou a base para os meus estudos atua
 ## 📂 Evidências / Evidences
 * [Vídeo das Métricas Detalhadas (Conversão e ROI)](./evidencias/Video%20de%20metricas.mp4)
 * [Vídeo Demonstrativo do Instagram (@blenddrop)](./evidencias/Instagram.mp4)
-* [Print do Faturamento Total (Yampi)](./evidencias/Faturamento%20Print.jpeg)
-
 ---
 *Nota: A operação foi descontinuada devido ao novo cenário tributário de importação no Brasil, mas os dados comprovam minha capacidade de execução e gestão de projetos digitais.*
