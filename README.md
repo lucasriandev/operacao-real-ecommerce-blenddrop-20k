@@ -1,0 +1,1 @@
+# operacao-real-ecommerce-blenddrop-20k
