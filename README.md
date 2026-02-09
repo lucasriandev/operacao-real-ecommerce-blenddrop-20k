@@ -51,4 +51,4 @@ Esta experiência empreendedora me proporcionou a base para os meus estudos atua
 * [Vídeo das Métricas Detalhadas (Conversão e ROI)](./evidencias/Video%20de%20metricas.mp4)
 * [Vídeo Demonstrativo do Instagram (@blenddrop)](./evidencias/Instagram.mp4)
 ---
-*Nota: A operação foi descontinuada devido ao novo cenário tributário de importação no Brasil, mas os dados comprovam minha capacidade de execução e gestão de projetos digitais.*
+*Nota: A operação foi descontinuada devido ao novo cenário tributário de importação no Brasil, mas os dados comprovam minha capacidade de execução e gestão de projetos digitais e me deram inspiração para o futuro e novos projetos.*
