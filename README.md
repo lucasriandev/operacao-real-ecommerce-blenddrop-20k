@@ -32,7 +32,7 @@ Diferente de uma operação padrão, fui o responsável direto por toda a constr
 ## 📱 Branding & Presença Digital
 * **Instagram:** [@blenddrop](https://www.instagram.com/blenddrop) com **1.524 seguidores**.
 * **Conteúdo:** 42 publicações estratégicas focadas em prova social e educação do consumidor.
-* **Produto Estrela:** Alisadora Profissional Multifuncional.
+* **Produto mais vendido:** Alisadora Profissional Multifuncional.
 
 ---
 
